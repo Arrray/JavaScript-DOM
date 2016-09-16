@@ -23,7 +23,7 @@ window.onload=function(){
          }
       }
    }
-}
+};
 
 function playFun(){
 	var title=document.getElementById('title');
